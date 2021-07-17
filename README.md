@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi there, I’m [LiAhLiang](https://L-Ah-Liang.github.io/) 👋
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/49356203/126035646-3ff4d08e-1cb3-4d5c-8d93-13a0ab1338f2.gif" width="30%">
+</p>
+
 ![](https://github-readme-stats.vercel.app/api?username=L-Ah-Liang)
+
 <!--
 **L-Ah-Liang/L-Ah-Liang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
