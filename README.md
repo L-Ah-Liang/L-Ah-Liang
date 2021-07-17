@@ -41,6 +41,15 @@
 - ⚡ Fun fact: Music, English, Basketball, Animation,Skipping rope, Video games.
 <!-- - 👯 I’m looking to collaborate on Micro-service, PaaS, SaaS and so on… -->
 
+#### 🏊‍♂️ <a href="http://ahliang.cn" target="_blank">Weekly Development Breakdown</a>
+```text
+Java...      11 hrs 28 mins ██████████░░░░░░░░░░░  44.3%
+数据结构     6 hrs 51 mins  ██████░░░░░░░░░░░░░░░  26.5%
+英语         2 hrs 36 mins  ██░░░░░░░░░░░░░░░░░░░  10.0%
+健身         2 hrs 6 mins   ██░░░░░░░░░░░░░░░░░░░   8.1%
+Markdown     55 mins        █░░░░░░░░░░░░░░░░░░░░   3.6%
+```
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=L-Ah-Liang&layout=compact)
 ![Github stats](https://github-readme-stats.vercel.app/api?username=L-Ah-Liang)
 
