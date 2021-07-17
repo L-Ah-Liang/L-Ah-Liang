@@ -41,5 +41,7 @@
 - ⚡ Fun fact: Music, Japanese & English, Basketball, Animation, Video games.
 <!-- - 👯 I’m looking to collaborate on Micro-service, PaaS, SaaS and so on… -->
 
-![](https://github-readme-stats.vercel.app/api?username=L-Ah-Liang)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=L-Ah-Liang&layout=compact)
+![Github stats](https://github-readme-stats.vercel.app/api?username=L-Ah-Liang)
+
 
