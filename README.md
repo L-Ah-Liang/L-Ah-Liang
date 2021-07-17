@@ -38,7 +38,7 @@
 - 💬 Ask me about Anything you want~
 - 📫 Reach me: 2512033149@qq.com
 - 😄 Pronouns: LiAhLiang
-- ⚡ Fun fact: Music, English, Basketball, Animation,SkippingRope, Video games.
+- ⚡ Fun fact: Music, English, Basketball, Animation,Skipping rope, Video games.
 <!-- - 👯 I’m looking to collaborate on Micro-service, PaaS, SaaS and so on… -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=L-Ah-Liang&layout=compact)
